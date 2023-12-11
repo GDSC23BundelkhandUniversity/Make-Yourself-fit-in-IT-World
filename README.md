@@ -1,2 +1,30 @@
 # Make-Yourself-fit-in-IT-World
-Through this repo explore how to make yourself fit seamlessly into the dynamic and ever-evolving landscape of IT.
+## Tech Career Pathways: Navigating Opportunities in the Ever-Evolving Landscape
+### Welcome to the Tech Career Pathways repository! This space is a reflection of the insightful session conducted by [Sachin Saxena](https://www.linkedin.com/in/ytsaxena/) aka [IT Wale Bhaiya](https://www.youtube.com/@ITwalebhaiya/videos), providing a strategic exploration of various career trajectories within the tech industry, including Product Based Companies (PBCs), Service Based Companies (SBCs), freelancing, and dynamic Startups.
+
+![MAKE YOURSELF FIT IN IT - GDSC BU](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/5a060878-b539-4eb9-b8de-49574ba8ebf2)
+![MAKE YOURSELF FIT IN IT - GDSC BU (1)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/6a16121b-48af-4e46-af15-353f72054a22)
+![MAKE YOURSELF FIT IN IT - GDSC BU (2)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/d0262274-6b71-4de8-915a-5a924fabf39e)
+![MAKE YOURSELF FIT IN IT - GDSC BU (3)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/7ee7ea48-5d67-43c0-a0ab-e4b52cf11a7d)
+![MAKE YOURSELF FIT IN IT - GDSC BU (4)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/89310d9a-af20-4480-a131-7213c395f852)
+![MAKE YOURSELF FIT IN IT - GDSC BU (5)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/ccdde31f-c82f-4a57-9531-db267f969fd5)
+![MAKE YOURSELF FIT IN IT - GDSC BU (6)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/692bdb26-e82e-4f70-90d7-d9a76ad763a6)
+![MAKE YOURSELF FIT IN IT - GDSC BU (7)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/ea9e4641-b9bd-4882-83c8-4a57d0274f87)
+![MAKE YOURSELF FIT IN IT - GDSC BU (8)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/05683ff3-ed93-4775-a5f2-a9a9f94c3e65)
+![MAKE YOURSELF FIT IN IT - GDSC BU (9)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/4e3e9849-bc8d-4778-9d74-6a8def4187e0)
+![MAKE YOURSELF FIT IN IT - GDSC BU (10)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/dde12442-4bf3-4247-a8f4-b4b4e03d1f33)
+![MAKE YOURSELF FIT IN IT - GDSC BU (11)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/ddb61d19-e31e-44ba-b1fd-5974b8ce2281)
+![MAKE YOURSELF FIT IN IT - GDSC BU (12)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/64ef7c2e-b196-4826-9133-911bd528978c)
+![MAKE YOURSELF FIT IN IT - GDSC BU (13)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/f58812fc-0a4f-4b77-8f7e-a2d6146075ac)
+![MAKE YOURSELF FIT IN IT - GDSC BU (14)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/a95f2ab1-aaa6-401c-ae18-dcf1449da2f1)
+![MAKE YOURSELF FIT IN IT - GDSC BU (15)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/597dcf72-4dc5-49d6-bf65-fa99194ebc13)
+![MAKE YOURSELF FIT IN IT - GDSC BU (16)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/72f278cc-df38-4390-8b9a-bf36b4b84a6b)
+![MAKE YOURSELF FIT IN IT - GDSC BU (17)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/e769b517-f2de-45fc-ac67-7ad3a95f7ebd)
+![MAKE YOURSELF FIT IN IT - GDSC BU (18)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/4a1f8fae-6586-4a99-a2c6-0ffc0ad776de)
+![MAKE YOURSELF FIT IN IT - GDSC BU (19)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/00a42a58-95bc-4754-b269-23877e92556b)
+![MAKE YOURSELF FIT IN IT - GDSC BU (20)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/e43b4291-d792-4601-b710-24edebbf27b1)
+![MAKE YOURSELF FIT IN IT - GDSC BU (21)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/12b3334a-eb88-455e-9ba3-8c91a9c60044)
+![MAKE YOURSELF FIT IN IT - GDSC BU (22)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/4953cb47-5dc3-47b9-8e67-79092a70c4fd)
+![MAKE YOURSELF FIT IN IT - GDSC BU (23)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/f1476527-37f4-4e23-80d8-95d64f17a340)
+![MAKE YOURSELF FIT IN IT - GDSC BU (24)](https://github.com/GDSC23BundelkhandUniversity/Make-Yourself-fit-in-IT-World/assets/114987574/f5f555ae-c238-4564-8bfc-ebdd9a3798f7)
+
